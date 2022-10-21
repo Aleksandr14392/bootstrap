@@ -22,9 +22,11 @@ nav a:hover {
     width: 236px;
     height: 68px;
     background-color: transparent;
+    box-shadow: 0 0 23px 15px white;
 }
 
 .button:hover {
     background-color: #FA4A0C;
     border: 2px solid #FA4A0C;
+    box-shadow: 0 0 23px 15px #FA4A0C;
 }
