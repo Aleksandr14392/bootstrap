@@ -1,7 +1,6 @@
 nav a {
     font-family: 'Montserrat';
-    text-decoration: none;
-    color: #252B42;
+    color: black;
 }
 
 
@@ -10,7 +9,6 @@ nav a:hover {
 }
 
 .button {
-    border-radius: 30px;
     border: 2px solid white;
     width: 236px;
     height: 68px;
@@ -22,34 +20,19 @@ nav a:hover {
     width: 142px;
     height: 64px;
     border: 1px solid #FFFFFF;
-    border-radius: 10px;
     background-color: transparent;
     box-shadow: 0 0 23px 15px white;
-}
-
-
-.button1:hover {
-    background-color: #FA4A0C;
-    border: 2px solid #FA4A0C;
-    box-shadow: 0 0 23px 15px #FA4A0C;
 }
 
 .button2 {
     width: 173px;
     height: 60px;
     border: 1px solid #FFFFFF;
-    border-radius: 10px;   
     background-color: transparent;
     box-shadow: 0 0 23px 15px white;
 }
 
-.button2:hover {
-    background-color: #FA4A0C;
-    border: 2px solid #FA4A0C;
-    box-shadow: 0 0 23px 15px #FA4A0C;
-}
-
-.button:hover {
+.button1:hover, .button2:hover, .button:hover {
     background-color: #FA4A0C;
     border: 2px solid #FA4A0C;
     box-shadow: 0 0 23px 15px #FA4A0C;
